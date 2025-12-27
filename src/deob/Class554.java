@@ -1,0 +1,18 @@
+package deob;
+
+public class Class554 {
+
+	public static int anInt6375 = 12;
+
+	public static int anInt6376 = 1;
+
+	public static char[] aCharArray6377 = new char[] { ' ', ' ', '_', '-', 'à', 'á', 'â', 'ä', 'ã', 'À', 'Á', 'Â', 'Ä', 'Ã', 'è', 'é', 'ê', 'ë', 'È', 'É', 'Ê', 'Ë', 'í', 'î', 'ï', 'Í', 'Î', 'Ï', 'ò', 'ó', 'ô', 'ö', 'õ', 'Ò', 'Ó', 'Ô', 'Ö', 'Õ', 'ù', 'ú', 'û', 'ü', 'Ù', 'Ú', 'Û', 'Ü', 'ç', 'Ç', 'ÿ', 'Ÿ', 'ñ', 'Ñ', 'ß' };
+
+	public static char[] aCharArray6374 = new char[] { '[', ']', '#' };
+
+	public static int anInt6378;
+
+	public Class554() throws Throwable {
+		throw new Error();
+	}
+}

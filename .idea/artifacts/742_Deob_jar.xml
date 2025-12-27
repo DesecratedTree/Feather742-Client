@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="742 Deob:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/742_Deob_jar</output-path>
+    <root id="archive" name="742 Deob.jar">
+      <element id="module-output" name="742 Deob" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/clientlibs.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
